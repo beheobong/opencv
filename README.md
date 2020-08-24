@@ -1,4 +1,4 @@
-# opencv
+# opencv for Android : https://opencv.org/android/
 
 ### 1: Tích hợp thư viện OpenCV Android Library vào Android Studio
 - https://viblo.asia/p/tich-hop-thu-vien-opencv-android-library-vao-android-studio-bJzKmGDYl9N
